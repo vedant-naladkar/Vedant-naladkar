@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant-naladkar&label=Profile%20views&color=0e75b6&style=flat" alt="vedant-naladkar" /> </p>
 
-- 🌱 I’m currently learning **react, solidity**
+- 🌱 I’m currently learning **react, solidity, web3js,**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
